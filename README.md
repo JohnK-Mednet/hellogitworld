@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Class: So You Want To Work In The Web?
 
 This is a sample project students can use during Matthew's Git class.
@@ -20,3 +21,11 @@ This demo also includes an image with changes on a branch for examination of ima
 <3 Github
 
 _We'll send stickers - I promise_
+=======
+first_repo
+==========
+
+First Repo to learn git
+
+This is only for testing purposes, there is nothing else here.
+>>>>>>> 487564c1096567b94422acfc974ebdb4e0142d90
